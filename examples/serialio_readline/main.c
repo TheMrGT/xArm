@@ -5,6 +5,9 @@
 // an array of pointers which point to each specific token
 // it is NOT an array of characters, which make up the token
 
+// additional test comment, verified everything works on home pc(compile,
+// git, example programs)
+
 #include <stdio.h>
 #include <string.h>
 #include "uart.h"
