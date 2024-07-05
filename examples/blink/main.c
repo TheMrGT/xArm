@@ -5,9 +5,10 @@
  
 int main(void)
 {
+    //test comment for home pc
     // use built-in led and set to output
     pinMode(LED_BUILTIN, OUTPUT);
-    int delay_ms = 200;
+    int delay_ms = 500;
 
     while(1) 
     {
